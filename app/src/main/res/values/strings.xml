@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="avFavorito">Petagram - Favoritos</string>
+    <string name="ab_titulo_Main">Petagram</string>
+    <string name="ab_titulo_Favoritos">Petagram - Favoritos</string>
+    <string name="ab_titulo_Perfil">Petagram - Perfil</string>
+    <string name="ab_titulo_AcercaDe">Petagram - Acerca</string>
+    <string name="tvMascotas_Favoritas">Mascotas Favoritas</string>
+    <string name="tvNombreMascota">Nombre de la Mascota</string>
+    <string name="tvLikes">999</string>
+    <string name="tvPerfil">Ronny</string>
+    <string name="menu_opContacto">Contacto</string>
+    <string name="tvDesarrollador">Desarrollador:</string>
+    <string name="menu_opAcercaDe">Acerca de</string>
+    <string name="tvAcercaDe">Acerca de</string>
+    <string name="tvDetalle_Nombre">    Nombre: Jose Maria Iñiguez</string>
+    <string name="tvDetalle_Edad">      Edad:   36 años</string>
+    <string name="tvDetalle_Email">     eMail:  jim_i011@yahoo.com</string>
+    <string name="tvDetalle_Descripcion_titulo">Acerca de mi:</string>
+    <string name="tvDetalle_Descripcion">Apasionado por la programación y el desarrollo de Apps para moviles y Web</string>
+    <string name="in_nombre">Nombre</string>
+    <string name="in_email">eMail</string>
+    <string name="in_comentario">Comentario:</string>
+    <string name="btnEnviar">Enviar Comentario</string>
+</resources>

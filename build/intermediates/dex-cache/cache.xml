@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MacBookAir/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.5.5/53a2f927b235acb565dbe9314ececfb7e6d43020/android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-mail-1.5.5_a98114a35ed88a1556b04b36d155b44a57ed60fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_eb3ea03acb3fbb8f59247c1210ac32d2f3389a08/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_814c50ce95d4529b08d3ef37d30296b59454efae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_336b996b0166f5d634b1b2ba523a89bb3129f63b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_03de67a9b16ee652558e13461abea3bf4af1eb38/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e6f53a480830cd02dbb278b45274511802632725/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_7e5e4f7231befd7b10f2dee0f0a7d5e8ce7a2f70/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3c8baf2a32d3d3b0f9479d0a01c5cae79aa33da4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_9f34a7426552386be5f37ce6144ee827fb360487/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_bafe8d86decddc8b2f1a79d3b25d2439d957209d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_0d32d822a31e48af93b4aed83c8e23a18dbbf036/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b12f5bd1db864b2d49573855409706e3f116ab28">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c8564396adc0f78155cf0835371c6a1b7d550a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikhaellopez-circularimageview-3.0.2_5aa16d66e5be2df441f1e5700a50b230e1c1dab6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_e499e6804f877681cfee0b8ec83e3d3bbd15b637/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3275ab8a2cd8215f8530177296b0cc3a3e74ad28/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_ca8f5a16cc83c98f922557171968a6820df4d60b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.5.5/5442d5e05808145434b750c9f8a0c3f537383c5a/android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-activation-1.5.5_24f29ce50d5846a998b91ed2f4429b0ba39b8301/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="649822dbed6c2d64a7582996ea60d48a0db87ded">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47e594bcee153f0cb171aeed52a97f7fea35b5f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8a079d6f572a4083bcdf7895888457d34ebcba34/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_739a99edd17e05e5f8c4becc92ac01c20657d8cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_64eab6404b7f795a5b95cb4402f68ec2cf3ee1a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e18649f1693a64560447ff3611f798d6523efe8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/MacBookAir/Documents/AndroidProjects/Petagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_bc1e0c0fdd762fe414a4e0c8d97694961cea3d1b/classes.dex" />
+    </item>
+
+</items>

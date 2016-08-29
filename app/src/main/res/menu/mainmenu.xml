@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Favoritos", debe aparacer como Action Button si es posible -->
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/star5_24"
+        android:title="@string/avFavorito"
+        app:showAsAction="ifRoom"/>
+
+    <!-- Menu Settings, siempre debe estar al final -->
+
+    <item android:id="@+id/mContacto"
+        android:title="@string/menu_opContacto"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/mAcercaDe"
+        android:title="@string/menu_opAcercaDe"
+        app:showAsAction="never"/>
+</menu>

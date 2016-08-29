@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="miActionBar_elevacion">4dp</dimen>
+    <dimen name="corner_radious_cardview">4dp</dimen>
+    <dimen name="titulos">30sp</dimen>
+    <dimen name="titulos_mediano">25sp</dimen>
+    <dimen name="detalles">20sp</dimen>
+</resources>
